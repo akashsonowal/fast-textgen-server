@@ -8,3 +8,8 @@ Run Docker with GPU access (use Nvidia Container Toolkit)
 ```
 docker run --rm --runtime=nvidia --gpus all llama2-server:v1
 ```
+
+Run locally
+```
+python3 entrypoint.py
+```
