@@ -13,3 +13,6 @@ Run locally
 ```
 python3 entrypoint.py
 ```
+
+### Follow up on 
+https://github.com/Lightning-AI/litserve
